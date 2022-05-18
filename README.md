@@ -1,3 +1,2 @@
-jse
-20223148
+jse    20223148
 Kookmin Univ. SW
